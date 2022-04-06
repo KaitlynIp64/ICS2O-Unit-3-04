@@ -13,7 +13,7 @@ function calculate () {
   const fahrenheit = parseFloat(document.getElementById("fahrenheit").value)
 
   // process
-  const celsius = (fahrenheit - 32) x 5.0/9.0
+  const celsius = (fahrenheit - 32) x 5.0 / 9.0
 
   // output
   document.getElementById('celsius').innerHTML = 'celsius is: ' + celsius.toFixed(2) + ' °C'
