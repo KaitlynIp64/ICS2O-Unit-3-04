@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/KaitlynIp64/ICS2O-Unit-3-04](https://repl.it/github/KaitlynIp64/ICS2O-Unit-3-04)
 
-This site can be found at: [https://KaitlynIp64.github.io/ICS2O-Unit-3-04](https://KaitlynIp64.github.io/ICS2O-Unit-3-04)
+This site can be found at: [https://KaitlynIp64.github.io/ICS2O-Unit-3-04/](https://KaitlynIp64.github.io/ICS2O-Unit-3-04)
